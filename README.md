@@ -1,1 +1,1 @@
-Hello furo
+This is the test message 
